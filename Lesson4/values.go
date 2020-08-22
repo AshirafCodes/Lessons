@@ -7,7 +7,6 @@ func output(path string) string {
 }
 
 func main() {
-
 	// Go has various value types including strings, integers, floats, booleans, etc. Here are a few basic examples.
 
 	// Strings, which can be added together with +.
